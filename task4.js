@@ -1,5 +1,15 @@
 // Type your code below this line!
 
+function Journey(from, to) {
+  this.start = from
+  this.end = to
+}
+
+const from = process.argv[3]
+const to = process.argv[4]
+
+// Type your code above this line!
+
 
 
 // Type your code above this line!
